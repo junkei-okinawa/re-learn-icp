@@ -284,7 +284,7 @@ ICは、安全で信頼性の高い方法でシステム時刻とタイムスタ
 *   **グループチャット(Management Canister):** 各グループ・チャットにも独自のキャニスターがある。
 *   **チャットメッセージの暗号化(Onchain encryption):** メッセージは、高度なブロックチェーン暗号を使用して保護されている。
 
-## [ORIGYN](https://www.origyn.com/)
+### [ORIGYN](https://www.origyn.com/)
 
 RWA(Real World Assets)を実現。Federitalyの100% Made in Italy証明書を支えている。
 
